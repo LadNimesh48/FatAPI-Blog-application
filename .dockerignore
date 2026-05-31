@@ -1,20 +1,10 @@
-# # Python-generated files
-# __pycache__/
-# *.py[oc]
-# build/
-# dist/
-# wheels/
-# *.egg-info
-# .env
 
-# # Virtual environments
-# .venv
 
-# Created by https://www.toptal.com/developers/gitignore/api/python,macos,visualstudiocode,dotenv
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,visualstudiocode,dotenv
+.git/
+tests/
 
-### dotenv ###
-# .env
+## dotenv ###
+.env
 
 ### Database Files ###
 *.sqlite3
